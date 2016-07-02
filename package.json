@@ -1,0 +1,23 @@
+{
+  "name": "vigour-cli",
+  "version": "1.0.0",
+  "description": "simple little cli for your node software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigour-io/cli.git"
+  },
+  "keywords": [
+    "node",
+    "cli"
+  ],
+  "author": "vigour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vigour-io/cli/issues"
+  },
+  "homepage": "https://github.com/vigour-io/cli#readme"
+}
