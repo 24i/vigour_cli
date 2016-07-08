@@ -1,6 +1,6 @@
-var Repl = require('repl')
-var repl = module.exports = Repl.start({ prompt: '> ', useGlobal: true })
-var context = repl.context
+const Repl = require('repl')
+const repl = module.exports = Repl.start({ prompt: '> ', useGlobal: true })
+const context = repl.context
 
 Object.defineProperty(context, 'q', {
   get: function () { process.exit() },
