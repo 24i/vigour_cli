@@ -1,6 +1,6 @@
 {
   "name": "vigour-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple little cli for your node software",
   "main": "index.js",
   "scripts": {
